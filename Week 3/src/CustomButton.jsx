@@ -8,7 +8,7 @@ function CustomButton() {
     <div>
       <button
         onClick={handleClick}
-        className="bg-red-500 text-orange-200 p-2 rounded hover:bg-red-700 m-4"
+        className="bg-blue-500 text-orange-200 p-2 rounded hover:bg-blue-700 m-4"
       >
         Click Me!
       </button>
